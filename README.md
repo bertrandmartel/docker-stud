@@ -1,5 +1,9 @@
 # Stud Docker image
 
+[![Build Status](https://travis-ci.org/bertrandmartel/docker-stud.svg?branch=master)](https://travis-ci.org/bertrandmartel/docker-stud)
+[![](https://images.microbadger.com/badges/image/bertrandmartel/docker-stud.svg)](https://microbadger.com/images/bertrandmartel/docker-stud)
+[![](https://images.microbadger.com/badges/version/bertrandmartel/docker-stud.svg)](https://microbadger.com/images/bertrandmartel/docker-stud)
+
 A configurable [Stud](https://github.com/bumptech/stud) docker image :
 
 ## Run
