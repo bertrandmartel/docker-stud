@@ -10,7 +10,7 @@ install:
 # Assist with ci test debugging:
 #   - DEBUG=1
 before_script:
-    - image="bertrandmartel/docker-jenkins-android"
+    - image="bertrandmartel/docker-stud"
     - docker build -t "$image" .
     - docker inspect "$image"
 
